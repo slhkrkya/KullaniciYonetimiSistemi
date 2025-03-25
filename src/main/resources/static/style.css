@@ -1,0 +1,6 @@
+.logo {
+    width: 150px; /* Logo genişliği */
+    height: auto; /* Oranları koruyarak boyut ayarlama */
+    display: block;
+    margin: 0 auto; /* Ortalamak için */
+}
